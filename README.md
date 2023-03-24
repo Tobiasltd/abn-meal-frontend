@@ -131,7 +131,7 @@ git clone https://github.com/Tobiasltd/abn-meal-app.git
 - Change into the project directory by running the following command:
 
 ```bash
-cd frontend
+cd abn-meal-frontend
 ```
 
 - Install the required dependencies using the following command:
